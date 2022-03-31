@@ -1,0 +1,57 @@
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\bin\Debug\CapaNegocio.dll
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\bin\Debug\CapaDatos.dll
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\bin\Debug\CapaDatos.pdb
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\samil\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\samil\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\samil\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\samil\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\samil\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\samil\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\samil\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\samil\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\samil\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\samil\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\samil\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\samil\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\samil\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\samil\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\samil\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\samil\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Alina Marina\Desktop\Segundo Parcial Agenda\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Alina Marina\Desktop\Segundo Parcial Agenda\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Alina Marina\Desktop\Segundo Parcial Agenda\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Alina Marina\Desktop\Segundo Parcial Agenda\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Alina Marina\Desktop\Segundo Parcial Agenda\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Alina Marina\Desktop\Segundo Parcial Agenda\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Alina Marina\Desktop\Segundo Parcial Agenda\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Alina Marina\Desktop\Segundo Parcial Agenda\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Alina Marina\Desktop\Segundo Parcial Agenda\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\Alina Marina\Desktop\Segundo Parcial Agenda\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Alina Marina\Desktop\Segundo Parcial Agenda\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Alina Marina\Desktop\Segundo Parcial Agenda\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Alina Marina\Desktop\Segundo Parcial Agenda\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Alina Marina\Desktop\Segundo Parcial Agenda\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Alina Marina\Desktop\Segundo Parcial Agenda\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
